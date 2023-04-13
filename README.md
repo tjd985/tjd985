@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=3399FF&height=300&section=header&text=OSH&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=3399FF&height=300&section=header&text=안녕하세요%20프론트엔드를%20공부하고있는%20오성호입니다🌊&fontSize=90)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjd985&show_icons=true&theme=radical)
