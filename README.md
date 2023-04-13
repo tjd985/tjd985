@@ -2,12 +2,12 @@
 
 <!--  헤더  -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello!&desc=Welcome%20to%20my%20GitHub&fontSize=70&fontColor=FFFFFF)
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 # Introduce🧑‍💻
 <!-- 자기소개 -->
 I'm SeongHo and studying FrontEnd to become Developer
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
   
 # Studying📚
 <!-- 공부중인 기술들 -->
@@ -16,7 +16,7 @@ I'm SeongHo and studying FrontEnd to become Developer
 <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
   
 # More about me☄️
 <!-- SNS -->
@@ -32,7 +32,7 @@ I'm SeongHo and studying FrontEnd to become Developer
 <a href="kimpo0225@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/kimpo0225@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </a>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
   
  
 ![SeongHo's github stats](https://github-readme-stats.vercel.app/api?username=tjd985&show_icons=true&theme=tokyonight)
