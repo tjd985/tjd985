@@ -29,9 +29,6 @@ I'm SeongHo and studying FrontEnd to become Developer
 <a href="tjd985@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/tjd985@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
-<a href="kimpo0225@naver.com" target="_blank">
-  <img src="https://img.shields.io/badge/kimpo0225@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
-</a>
 <br/><br/><br/><br/><br/><br/><br/>
   
  
