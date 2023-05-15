@@ -18,7 +18,7 @@ I'm SeongHo and studying FrontEnd to become Developer
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <br/><br/><br/><br/>
   
-# More about me☄️
+# More about me😎
 <!-- SNS -->
 <a href="https://www.notion.so/OH-SeongHo-2ea9539aa582411dafa5135ab7846a98?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=white"/>
