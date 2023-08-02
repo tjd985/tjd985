@@ -29,8 +29,6 @@ I'm SeongHo and studying FrontEnd to become Developer
   <img src="https://img.shields.io/badge/tjd985@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 <br/><br/><br/><br/><br/><br/><br/>
-  
- 
-![SeongHo's github stats](https://github-readme-stats.vercel.app/api?username=tjd985&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjd985&layout=compact&theme=tokyonight)
 </div>
