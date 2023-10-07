@@ -21,7 +21,7 @@ I'm SeongHo and studying FrontEnd to become Developer
 <a href="https://www.notion.so/OH-SeongHo-2ea9539aa582411dafa5135ab7846a98?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/seong___5/?theme=dark" target="_blank">
+<a href="https://www.instagram.com/hoseongosee/?theme=dark" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </a>
 <a href="tjd985@gmail.com" target="_blank">
