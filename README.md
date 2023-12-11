@@ -6,7 +6,7 @@
 
 # Introduce🧑‍💻
 <!-- 자기소개 -->
-I'm SeongHo and studying FrontEnd to become Developer
+I'm SeongHo and studying FrontEnd
 <br/><br/><br/><br/>
   
 # Studying📚
