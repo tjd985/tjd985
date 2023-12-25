@@ -12,10 +12,14 @@ I'm SeongHo and studying FrontEnd
 # Studying📚
 <!-- 공부중인 기술들 -->
 <img src="https://img.shields.io/badge/HTML5-E23F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-gray?style=flat&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactRouter-gray?style=flat&logo=reactrouter&logoColor=CA4245"/> <br/>
+<img src="https://img.shields.io/badge/Node.js-484B54?style=flat&logo=Node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-484B54?style=flat&logo=Express&logoColor=white"/>
+
 
 <br/><br/><br/><br/>
   
