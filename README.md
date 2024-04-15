@@ -1,40 +1,22 @@
-<div align="center">
+<img src="./assets/발표 이미지.JPG" width=400 /><br/>
 
-<!--  헤더  -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello!&desc=Welcome%20to%20my%20GitHub&fontSize=70&fontColor=FFFFFF)
-<br/><br/><br/><br/>
+## 안녕하세요, 오성호 입니다!
 
-# Introduce🧑‍💻
-<!-- 자기소개 -->
-I'm SeongHo and studying FrontEnd
-<br/><br/><br/><br/>
-  
-# Studying📚
-<!-- 공부중인 기술들 -->
-<img src="https://img.shields.io/badge/HTML5-E23F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-gray?style=flat&logo=React&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactRouter-gray?style=flat&logo=reactrouter&logoColor=CA4245"/> <br/>
-<img src="https://img.shields.io/badge/Node.js-484B54?style=flat&logo=Node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-484B54?style=flat&logo=Express&logoColor=white"/>
+### 🙋🏻 저는
 
+모든 행동에는 그를 뒷받침하는 이유가 있어야 한다고 생각하기에, 근거를 기반으로 판단하는 개발을 지향합니다.
 
-<br/><br/><br/><br/>
-  
-# More about me😎
-<!-- SNS -->
-<a href="https://www.notion.so/OH-SeongHo-2ea9539aa582411dafa5135ab7846a98?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/hoseongosee/?theme=dark" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-</a>
-<a href="tjd985@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/tjd985@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-<br/><br/><br/><br/><br/><br/><br/>
+UX를 중요하게 생각합니다.<br/>항상 best practice를 적용하기 위해 여러방면에서 바라보고 심도있게 고민합니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjd985&layout=compact&theme=tokyonight)
-</div>
+### 🧗🏻 경험
+
+군에서 2년간 소대장 직책으로 임무를 수행한 경험이 있습니다.<br/>
+이때 소대원들을 관리하면서 상대방의 입장에서 생각하며 소통하는 하는 자세를 배웠고,<br/>
+부여된 과업에 대하여 책임감을 가지고 완수 할 수 있는 역량을 길렀습니다.<br/>
+
+이제는 **_"책임감 있고, 대화를 할줄 아는 사람"_** 라는 소리를 듣기위해 매일 한걸음씩 나아가고 있습니다!
+
+### 🎯 ETC.
+
+- **E-mail**: tjd985@gmail.com
+- **Notion**: [seongHo's Notion](https://opaque-report-ba5.notion.site/OH-SeongHo-2ea9539aa582411dafa5135ab7846a98?pvs=4)
