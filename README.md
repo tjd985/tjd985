@@ -14,6 +14,25 @@
 
 이를 기반으로 **_"책임감 있고, 대화를 할줄 아는 사람"_** 이라는 소리를 듣기위해 매일 한걸음씩 나아가고 있습니다!
 
+### 📝 오픈소스 기여
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mdn/translated-content/pull/22407">
+        <img src="https://img.shields.io/badge/MDN-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN Badge" style="width: 120px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td style="border: none;">
+      <a href="https://github.com/mdn/translated-content/pull/22407" style="text-decoration: none; color: #7E7E7E; font-size: 13px; font-weight: bold;">
+        WASM document 오타 수정
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 🎯 ETC.
 
 - **E-mail**: tjd985@gmail.com
