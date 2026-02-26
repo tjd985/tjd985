@@ -4,4 +4,4 @@
 <br />
 ### Expeirence
 - **버킷스토어** (2024.08 ~ 2026.02)
-- **CJ ENM Entertainment Div.** (2026.02 ~ )
+- **CJ ENM Mnet Plus** (2026.02 ~ )
